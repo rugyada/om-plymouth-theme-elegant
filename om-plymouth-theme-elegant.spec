@@ -9,7 +9,7 @@ Release:	1
 License:	Creative Commons Attribution-ShareAlike
 Group:		System/Kernel and hardware
 URL:		https://github.com/rugyada/om-plymouth-theme-elegant
-Source0:	%{name}-%version.tar.gz
+Source0:	openmandriva-elegant.tar.gz
 Requires:	plymouth
 Requires:	plymouth-plugin-script
 Requires:	plymouth-scripts
