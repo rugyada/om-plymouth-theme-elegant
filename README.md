@@ -1,2 +1,2 @@
 # om-plymouth-theme-elegant
-OM Elegant plymouth theme
+An alternative plymouth theme for OpenMandriva
